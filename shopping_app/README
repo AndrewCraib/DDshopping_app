@@ -1,0 +1,48 @@
+#INSTALLATION
+
+To install the dependencies and run the webapp locally on port 3000, follow the below instructions:
+
+TO INSTALL THE DEPENDENCIES AND RUN THE APP LOCALLY, FOLLOW THE INSTRUCTIONS BELOW:
+
+- navigate to the following folder level and type the following to install express package:
+'shopping_app/shopping_app'
+```
+npm install
+```
+- to run the server file on your local host type the following:
+shopping_app/shopping_app
+```
+npm start
+```
+- open a new terminal tab and navigate to the client level and type the following to install further dependencies:
+shopping_app/shopping_app/client/
+```
+npm install
+```
+- once installed run webpacker by typing the following:
+$deloitteApparel/client/
+```
+npm start
+```
+- in your web browser of choice type in the following url to view the app:
+```
+localhost:3000/
+
+#PLANNING
+
+- The  first initial step I took was to look over some current clothing websites and have a look at how they have branded their products and how the webapp has been laid out. I decided after reading through the brief that using React would be the appropiate tool to use to build my app.
+
+- Once decided on the language, I followed on with planning, which involved a trello board, sketches of the interface of the app and functions, linking them both to clearly visualize how I was to approach the build of the app.
+
+
+#TO BE COMPLETED
+
+- I felt the planning was very beneficial to setting myself up to build the app:
+
+ to do:
+ 
+  - add item to basket
+  - remove item from basket
+  - Use vouchers/view new total cost
+  - Alert user if voucher is invalid
+  - Can't add item if out of stock
